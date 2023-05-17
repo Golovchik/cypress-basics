@@ -1,0 +1,22 @@
+{
+  "name": "cypress-basics",
+  "version": "1.0.0",
+  "description": "Cypress Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Golovchik/cypress-basics.git"
+  },
+  "author": "Uladzislau Halouchyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Golovchik/cypress-basics/issues"
+  },
+  "homepage": "https://github.com/Golovchik/cypress-basics#readme",
+  "dependencies": {
+    "cypress": "^12.12.0"
+  }
+}
