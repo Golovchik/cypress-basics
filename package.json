@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Golovchik/cypress-basics#readme",
   "dependencies": {
     "cypress": "^12.12.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.5.0"
   }
 }
